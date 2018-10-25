@@ -1,0 +1,143 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c66b25b11850b494555e003ea603f7e0aeaec549087ad1688272650fb6664e54"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "certifi": {
+            "hashes": [
+                "sha256:339dc09518b07e2fa7eda5450740925974815557727d6bd35d319c1524a04a4c",
+                "sha256:6d58c986d22b038c8c0df30d639f23a3e6d172a05c3583e766f4c0b785c0986a"
+            ],
+            "version": "==2018.10.15"
+        },
+        "chardet": {
+            "hashes": [
+                "sha256:84ab92ed1c4d4f16916e05906b6b75a6c0fb5db821cc65e70cbd64a3e2a5eaae",
+                "sha256:fc323ffcaeaed0e0a02bf4d117757b98aed530d9ed4531e3e15460124c106691"
+            ],
+            "version": "==3.0.4"
+        },
+        "datefinder": {
+            "hashes": [
+                "sha256:cbcef23d03358b81bcc16e7bbdd71d759ee3dcaea7c7602db0587d3473f41d15"
+            ],
+            "index": "pypi",
+            "version": "==0.6.1"
+        },
+        "idna": {
+            "hashes": [
+                "sha256:156a6814fb5ac1fc6850fb002e0852d56c0c8d2531923a51032d1b70760e186e",
+                "sha256:684a38a6f903c1d71d6d5fac066b58d7768af4de2b832e426ec79c30daa94a16"
+            ],
+            "version": "==2.7"
+        },
+        "pyjwt": {
+            "hashes": [
+                "sha256:30b1380ff43b55441283cc2b2676b755cca45693ae3097325dea01f3d110628c",
+                "sha256:4ee413b357d53fd3fb44704577afac88e72e878716116270d722723d65b42176"
+            ],
+            "version": "==1.6.4"
+        },
+        "pysocks": {
+            "hashes": [
+                "sha256:3fe52c55890a248676fd69dc9e3c4e811718b777834bcaab7a8125cf9deac672"
+            ],
+            "markers": "python_version >= '3.0'",
+            "version": "==1.6.8"
+        },
+        "python-dateutil": {
+            "hashes": [
+                "sha256:2f13d3ea236aeb237e7258d5729c46eafe1506fd7f8507f34730734ed8b37454",
+                "sha256:f7cde3aecf8a797553d6ec49b65f0fbcffe7ffb971ccac452d181c28fd279936"
+            ],
+            "version": "==2.7.4"
+        },
+        "pytodoist": {
+            "hashes": [
+                "sha256:32131134bdaece35982a9fcdb9150bd86ac8dbb98c92bc4302c94237252b59c7",
+                "sha256:fcf65f71f07d62794c93bc03e8a7a94f8068fe3d22ef0d57bbb241334b48e8dc"
+            ],
+            "index": "pypi",
+            "version": "==2.1.1"
+        },
+        "pytz": {
+            "hashes": [
+                "sha256:642253af8eae734d1509fc6ac9c1aee5e5b69d76392660889979b9870610a46b",
+                "sha256:91e3ccf2c344ffaa6defba1ce7f38f97026943f675b7703f44789768e4cb0ece"
+            ],
+            "version": "==2018.6"
+        },
+        "regex": {
+            "hashes": [
+                "sha256:02a77606e3f4a0a16a2727ed8f067681635a56221e8fca863ff64b196d5d79e0",
+                "sha256:03f2069676cf918ff642d42c8c649a889b484dd38aa30a7056b20e428f32dbc5",
+                "sha256:2cc4a724308cc7ddac088e0f7b9a8055c170eecf1772d7348759d3fda71c5695",
+                "sha256:3bcabcaee85eaf456e57e04e353eee398f197f4c9a07b4606d1cae9db054b97e",
+                "sha256:50575ad4f84db77e9f1eaab59b45c0e90e25f1f4cab977ca45a9d14d1413693a",
+                "sha256:562af33c5f1744e741d103dd877d45cac3294b3e3e3e66fede8b388a7f0c91fa",
+                "sha256:6449b767e0a84fd241bf93bf4e59aec76b2204aa8f46c4103b10ac1cf9b92c1f",
+                "sha256:697c0085f1adf9171a00dd3d8296c92d4ea013518cfd31b7f83c45948d9f5b65",
+                "sha256:6df2e1c91c8196c205d264d94f7d0b7cb21b174d031b2a68ceda5ef0b3664dc2",
+                "sha256:80b3b452de3c4142e0f76d5f08a1989673b6b2c88bee5bccf41bac8a416f6aac",
+                "sha256:80f58c6c4c38162eadeae23f658d2b92ad1ca4233802095e15f06f80203f71fe",
+                "sha256:a1e7b5928e398c618eb8553557ebb9bc5dcba61c16b4836905c8ae22742a07b4",
+                "sha256:b9f70b4ae8fda18483f9ecf4cfd4784674cb634cabaac0394119360cc911ae07",
+                "sha256:bf43d70d885b0685e19d0ac29d40e96d5c8ae7fe42d2ab5a12f45b3f790d3264",
+                "sha256:d0d77f7d256199ce89ad612503b63d4556d083a87e4e12b7edabfa427b54d121",
+                "sha256:e76e03c9f26550167c8f89e88d28a1c79868373bd56887c67142c97050442c3c",
+                "sha256:f0b5ce8cd3398470a56c308d3b0372414699c7d76c7440c806713a14fa020046"
+            ],
+            "version": "==2016.1.10"
+        },
+        "requests": {
+            "hashes": [
+                "sha256:99dcfdaaeb17caf6e526f32b6a7b780461512ab3f1d992187801694cba42770c",
+                "sha256:a84b8c9ab6239b578f22d1c21d51b696dcfe004032bb80ea832398d6909d7279"
+            ],
+            "version": "==2.20.0"
+        },
+        "six": {
+            "hashes": [
+                "sha256:70e8a77beed4562e7f14fe23a786b54f6296e34344c23bc42f07b15018ff98e9",
+                "sha256:832dc0e10feb1aa2c68dcc57dbb658f1c7e65b9b61af69048abc87a2db00a0eb"
+            ],
+            "version": "==1.11.0"
+        },
+        "todoist-python": {
+            "hashes": [
+                "sha256:b362ec7296886f6fdb1e4fb367ee33dfb5903f1fbe0f7626543f58294b6df7d0"
+            ],
+            "index": "pypi",
+            "version": "==7.0.18"
+        },
+        "twilio": {
+            "hashes": [
+                "sha256:07b315e5dc6b3e0a7fed13237a46a3a5e3fe20bf10e6ac91a3b1304c85318b2b",
+                "sha256:d67cec5d0b0be3b92d31051ca3f2faec247e2201a474237e93587aa08d64fa75"
+            ],
+            "index": "pypi",
+            "version": "==6.19.1"
+        },
+        "urllib3": {
+            "hashes": [
+                "sha256:41c3db2fc01e5b907288010dec72f9d0a74e37d6994e6eb56849f59fea2265ae",
+                "sha256:8819bba37a02d143296a4d032373c4dd4aca11f6d4c9973335ca75f9c8475f59"
+            ],
+            "version": "==1.24"
+        }
+    },
+    "develop": {}
+}
